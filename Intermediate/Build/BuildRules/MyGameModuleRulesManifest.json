@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\MyGame\\Source\\MyGame\\MyGame.Build.cs",
+		"D:\\MyGame\\Plugins\\ShaderPathPlugin\\Source\\ShaderPathPlugin\\ShaderPathPlugin.Build.cs",
+		"D:\\MyGame\\Source\\MyGame.Target.cs",
+		"D:\\MyGame\\Source\\MyGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

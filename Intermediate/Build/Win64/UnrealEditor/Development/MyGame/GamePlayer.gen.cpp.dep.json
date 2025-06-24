@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\mygame\\intermediate\\build\\win64\\unrealeditor\\inc\\mygame\\uht\\gameplayer.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\mygame\\intermediate\\build\\win64\\mygameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\mygame\\intermediate\\build\\win64\\unrealeditor\\development\\mygame\\definitions.mygame.h",
+            "d:\\mygame\\source\\mygame\\public\\gameplayer.h",
+            "d:\\mygame\\source\\mygame\\public\\carddata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\datatable.generated.h",
+            "d:\\mygame\\intermediate\\build\\win64\\unrealeditor\\inc\\mygame\\uht\\carddata.generated.h",
+            "d:\\mygame\\intermediate\\build\\win64\\unrealeditor\\inc\\mygame\\uht\\gameplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

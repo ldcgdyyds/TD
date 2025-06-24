@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{ECEE0A84-AF1B-3E31-98AE-C4CE303FAD9D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Shaders\BalatroEffect.hlsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ShaderPathPlugin">
+      <UniqueIdentifier>{C86CD9FA-5F79-3353-BD13-5517A247B962}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ShaderPathPlugin\Source">
+      <UniqueIdentifier>{D98A463E-C7FA-3BE0-B10C-524E9229B32C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ShaderPathPlugin\Source\ShaderPathPlugin">
+      <UniqueIdentifier>{FB7C7AFA-36BC-3182-9167-7FFD23637574}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\ShaderPathPlugin.Build.cs">
+      <Filter>Plugins\ShaderPathPlugin\Source\ShaderPathPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Private">
+      <UniqueIdentifier>{00BECDEF-4653-3B70-85BB-13248E9B4CDE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Private\ShaderPathPlugin.cpp">
+      <Filter>Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Private\ShaderPathPluginBPLibrary.cpp">
+      <Filter>Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Public">
+      <UniqueIdentifier>{EE210D10-980A-3112-A1D1-D3364D90A667}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Public\ShaderPathPlugin.h">
+      <Filter>Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Public\ShaderPathPluginBPLibrary.h">
+      <Filter>Plugins\ShaderPathPlugin\Source\ShaderPathPlugin\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\ShaderPathPlugin\ShaderPathPlugin.uplugin">
+      <Filter>Plugins\ShaderPathPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\ShaderPathPlugin\Resources">
+      <UniqueIdentifier>{569B1582-B828-3A6E-A373-681DC8713CA5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ShaderPathPlugin\Resources\Icon128.png">
+      <Filter>Plugins\ShaderPathPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Source\MyGame">
+      <UniqueIdentifier>{3945E313-24A4-3C31-81AA-EEB96DB645FA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyGame\MyGame.Build.cs">
+      <Filter>Source\MyGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyGame\MyGame.cpp">
+      <Filter>Source\MyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyGame\MyGame.h">
+      <Filter>Source\MyGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyGame\.idea">
+      <UniqueIdentifier>{DF49E250-D84F-3BDC-AAC3-8BC5BE841607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MyGame\.idea\.idea.MyGame.dir">
+      <UniqueIdentifier>{6B995ED0-B6E7-3FB9-ADA4-2E12F631EF2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MyGame\.idea\.idea.MyGame.dir\.idea">
+      <UniqueIdentifier>{8D384ED1-F464-306D-87A7-842AD1A5617C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyGame\.idea\.idea.MyGame.dir\.idea\.gitignore">
+      <Filter>Source\MyGame\.idea\.idea.MyGame.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\MyGame\.idea\.idea.MyGame.dir\.idea\indexLayout.xml">
+      <Filter>Source\MyGame\.idea\.idea.MyGame.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\MyGame\.idea\.idea.MyGame.dir\.idea\projectSettingsUpdater.xml">
+      <Filter>Source\MyGame\.idea\.idea.MyGame.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\MyGame\.idea\.idea.MyGame.dir\.idea\workspace.xml">
+      <Filter>Source\MyGame\.idea\.idea.MyGame.dir\.idea</Filter>
+    </None>
+    <Filter Include="Source\MyGame\Private">
+      <UniqueIdentifier>{C5CD56BD-18E0-3CA5-BE4B-F0F1854E6FCD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyGame\Private\Ability.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\Card.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\CardData.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\CardPool.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\EventCenter.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\GameManager.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\GamePlayer.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\LuckData.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\LuckMgr.cpp">
+      <Filter>Source\MyGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyGame\Private\Ability">
+      <UniqueIdentifier>{C75F2FF2-3ED9-31E4-ABC2-17DF93539E6B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyGame\Private\Ability\MagicMirror.cpp">
+      <Filter>Source\MyGame\Private\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\Ability\Mojing.cpp">
+      <Filter>Source\MyGame\Private\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\Ability\SilentDoctor.cpp">
+      <Filter>Source\MyGame\Private\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\Ability\SpringSpirit.cpp">
+      <Filter>Source\MyGame\Private\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\Ability\Witch.cpp">
+      <Filter>Source\MyGame\Private\Ability</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyGame\Private\UI">
+      <UniqueIdentifier>{240D9261-DCDF-35AD-B5E8-CC2C87D88409}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyGame\Private\UI\CardUI.cpp">
+      <Filter>Source\MyGame\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\UI\GameUI.cpp">
+      <Filter>Source\MyGame\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\UI\LevelItem.cpp">
+      <Filter>Source\MyGame\Private\UI</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\MyGame\Private\UI\LevelItem.cpp~">
+      <Filter>Source\MyGame\Private\UI</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyGame\Private\UI\LevelUI.cpp">
+      <Filter>Source\MyGame\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\UI\LuckUI.cpp">
+      <Filter>Source\MyGame\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyGame\Private\UI\MainUI.cpp">
+      <Filter>Source\MyGame\Private\UI</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyGame\Public">
+      <UniqueIdentifier>{B97EBC72-AE5D-3460-ACCC-4ED0E561150B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyGame\Public\Ability.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\Card.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\CardData.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\CardPool.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\EventCenter.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\GameManager.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\GamePlayer.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\LuckData.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\LuckMgr.h">
+      <Filter>Source\MyGame\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyGame\Public\Ability">
+      <UniqueIdentifier>{2001B950-A4B5-398A-9818-3B40918BEC6D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyGame\Public\Ability\MagicMirror.h">
+      <Filter>Source\MyGame\Public\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\Ability\Mojing.h">
+      <Filter>Source\MyGame\Public\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\Ability\SilentDoctor.h">
+      <Filter>Source\MyGame\Public\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\Ability\SpringSpirit.h">
+      <Filter>Source\MyGame\Public\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\Ability\Witch.h">
+      <Filter>Source\MyGame\Public\Ability</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyGame\Public\UI">
+      <UniqueIdentifier>{7B45EF96-0BB8-3408-BF2F-7410CC536F47}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyGame\Public\UI\CardUI.h">
+      <Filter>Source\MyGame\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\UI\GameUI.h">
+      <Filter>Source\MyGame\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\UI\LevelItem.h">
+      <Filter>Source\MyGame\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\UI\LevelUI.h">
+      <Filter>Source\MyGame\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\UI\LuckUI.h">
+      <Filter>Source\MyGame\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyGame\Public\UI\MainUI.h">
+      <Filter>Source\MyGame\Public\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

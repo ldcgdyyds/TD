@@ -1,0 +1,40 @@
+{
+  "targets": {
+    "UnrealGame": {
+      "targetType": "Game",
+      "targetPath": "D:\\UE_5.5\\Engine\\Source\\UnrealGame.Target.cs",
+      "projectPath": "",
+      "configurations": [
+        "DebugGame",
+        "Development",
+        "Shipping"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "DebugGame-Win64",
+        "Development-Win64",
+        "Shipping-Win64"
+      ]
+    },
+    "UnrealEditor": {
+      "targetType": "Editor",
+      "targetPath": "D:\\UE_5.5\\Engine\\Source\\UnrealEditor.Target.cs",
+      "projectPath": "",
+      "configurations": [
+        "DebugGame",
+        "Development"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "DebugGame-Win64",
+        "Development-Win64"
+      ]
+    }
+  }
+}

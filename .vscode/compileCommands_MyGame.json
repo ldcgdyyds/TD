@@ -1,0 +1,186 @@
+[
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\.idea\\.idea.MyGame.dir\\.idea\\.gitignore",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\.idea\\.idea.MyGame.dir\\.idea\\indexLayout.xml",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\.idea\\.idea.MyGame.dir\\.idea\\projectSettingsUpdater.xml",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\.idea\\.idea.MyGame.dir\\.idea\\workspace.xml",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\MyGame.Build.cs",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\MyGame.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\MyGame.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Private\\Card.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Private\\CardData.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Private\\EventCenter.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Private\\GameManager.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Private\\GamePlayer.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Private\\UI\\CardUI.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Private\\UI\\GameUI.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Private\\UI\\StartUI.cpp",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Public\\Card.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Public\\CardData.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Public\\EventCenter.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Public\\GameManager.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Public\\GamePlayer.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Public\\UI\\CardUI.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Public\\UI\\GameUI.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\MyGame\\Source\\MyGame\\Public\\UI\\StartUI.h",
+		"arguments": [
+			"D:\\VS2019\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\MyGame\\.vscode\\compileCommands_MyGame\\MyGame.256.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	}
+]

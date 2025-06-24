@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\mygame\\source\\mygame\\private\\gamemanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\mygame\\intermediate\\build\\win64\\mygameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\mygame\\intermediate\\build\\win64\\unrealeditor\\development\\mygame\\definitions.mygame.h",
+            "d:\\mygame\\source\\mygame\\public\\gamemanager.h",
+            "d:\\mygame\\intermediate\\build\\win64\\unrealeditor\\inc\\mygame\\uht\\gamemanager.generated.h",
+            "d:\\mygame\\source\\mygame\\public\\ability.h",
+            "d:\\mygame\\intermediate\\build\\win64\\unrealeditor\\inc\\mygame\\uht\\ability.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
